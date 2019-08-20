@@ -1,2 +1,2 @@
 # OpenConsoleFramework
-Framework for console games
+Framework for console games.
